@@ -3,7 +3,18 @@
 > Turning sales data into actionable profitability insights
 
 This project transforms raw DBKala sales transactions into actionable insights to identify **profitability drivers, loss-making products, high-value customers, and potential pricing or data-quality issues**.
+
 ---
+
+## Data Source
+
+The data used in this analysis comes from the **DBKala relational database**, which was designed and implemented as a separate project.
+
+🔗 **[View the DBKala Database Project](https://github.com/mahshidBRG/DBKala)**
+
+This project focuses on the **analysis and business insights** derived from that database, while the linked project covers the **database design and SQL implementation**.
+
+--- 
 ## Business Problem
 
 Sales data can tell a business **what happened**, but not necessarily **where value is being created or lost**.
